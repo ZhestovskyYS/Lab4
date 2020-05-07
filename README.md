@@ -19,20 +19,20 @@
 ![6](https://cdn.discordapp.com/attachments/465020961482342411/707923829028028466/unknown.png)
 
 - Начальное состояние приложения:  
-![7]()
+![7](https://cdn.discordapp.com/attachments/465020961482342411/707926276769316864/unknown.png)
 
 - Удаление студента:  
-![8]()  
-![9]()
+![8](https://cdn.discordapp.com/attachments/465020961482342411/707926556953280532/unknown.png)  
+![9](https://cdn.discordapp.com/attachments/465020961482342411/707926661240193095/unknown.png)
 
 - Добавление студента:  
-![10]()  
-![11]()
+![10](https://cdn.discordapp.com/attachments/465020961482342411/707926814328094770/unknown.png)  
+![11](https://cdn.discordapp.com/attachments/465020961482342411/707926893277610004/unknown.png)
 
 - Добавление занятия:  
-![12]()  
-![13]()
+![12](https://cdn.discordapp.com/attachments/465020961482342411/707927116590874644/unknown.png)  
+![13](https://cdn.discordapp.com/attachments/465020961482342411/707927207988690994/unknown.png)
 
 - Удаление занятия:  
-![14]()  
-![15]()
+![14](https://cdn.discordapp.com/attachments/465020961482342411/707927337764782120/unknown.png)  
+![15](https://cdn.discordapp.com/attachments/465020961482342411/707927497643261992/unknown.png)
