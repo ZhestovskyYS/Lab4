@@ -86,3 +86,27 @@
 
 - Кликнул по кнопке Delete напротив Howard Wolowitz:  
 ![30](https://cdn.discordapp.com/attachments/465020961482342411/717363292896624640/unknown.png)
+
+- Кликнул по надписи Pitter Parker:  
+![31](https://cdn.discordapp.com/attachments/465020961482342411/717368461726318612/unknown.png)
+
+- Кликнул по Practise и Mathimatic:  
+![32](https://cdn.discordapp.com/attachments/465020961482342411/717368547138994227/unknown.png)
+
+- Кликнул по Those Missing:  
+![33](https://cdn.discordapp.com/attachments/465020961482342411/717368598523543562/unknown.png)
+
+- Кликнул по Those Present: 
+![33](https://cdn.discordapp.com/attachments/465020961482342411/717368648850735124/unknown.png)
+
+- Перешел к занятию Practise:  
+![34](https://cdn.discordapp.com/attachments/465020961482342411/717368758183657632/unknown.png)
+
+- Кликнул по Those Present:  
+![35](https://cdn.discordapp.com/attachments/465020961482342411/717368820448100442/unknown.png)
+
+- Перешел к занятию Mathimatic и кликнул по All:  
+![36](https://cdn.discordapp.com/attachments/465020961482342411/717368914052382780/unknown.png)
+
+- Кликнул по Those Missing:  
+![37](https://cdn.discordapp.com/attachments/465020961482342411/717368976879124570/unknown.png)
