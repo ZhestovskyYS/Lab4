@@ -96,7 +96,7 @@
 - Кликнул по Those Missing:  
 ![33](https://cdn.discordapp.com/attachments/465020961482342411/717368598523543562/unknown.png)
 
-- Кликнул по Those Present: 
+- Кликнул по Those Present:  
 ![33](https://cdn.discordapp.com/attachments/465020961482342411/717368648850735124/unknown.png)
 
 - Перешел к занятию Practise:  
