@@ -16,22 +16,22 @@
 ![4](https://cdn.discordapp.com/attachments/465020961482342411/717001275467759637/unknown.png)  
 
 - Создал контейнер для списка студентов через компонент высшего порядка и котнейнер для списка студентов:  
-![5](https://cdn.discordapp.com/attachments/465020961482342411/717012128623755346/unknown.png)  
-![6](https://cdn.discordapp.com/attachments/465020961482342411/717014021160697877/unknown.png)  
+![5](https://cdn.discordapp.com/attachments/465020961482342411/717362211093348453/unknown.png)  
+![6](https://cdn.discordapp.com/attachments/465020961482342411/717362292366377111/unknown.png)  
 
 - Создал контейнеры для компонентов из списков студентов и занятий:  
-![](https://cdn.discordapp.com/attachments/465020961482342411/717011702771744818/unknown.png)  
-![10](https://cdn.discordapp.com/attachments/465020961482342411/717011660262342666/unknown.png)
+![7](https://cdn.discordapp.com/attachments/465020961482342411/717011702771744818/unknown.png)  
+![8](https://cdn.discordapp.com/attachments/465020961482342411/717011660262342666/unknown.png)
 
 - Здесь же создал функции studetToDisplay и lessonPresent для сортировки списков:  
-![7](https://cdn.discordapp.com/attachments/465020961482342411/717011744895270972/unknown.png)  
-![8](https://cdn.discordapp.com/attachments/465020961482342411/717011779171123272/unknown.png)
+![9](https://cdn.discordapp.com/attachments/465020961482342411/717011744895270972/unknown.png)  
+![10](https://cdn.discordapp.com/attachments/465020961482342411/717011779171123272/unknown.png)
 
 - Создал контейнеры для Editor-ов списков:  
-![12](https://cdn.discordapp.com/attachments/465020961482342411/717253818282147880/unknown.png)
+![11](https://cdn.discordapp.com/attachments/465020961482342411/717253818282147880/unknown.png)
 
 - Создал класс FilterButtons для дальнейшей связи кнопок с фильтрами:  
-![13](https://cdn.discordapp.com/attachments/465020961482342411/717258132761608252/unknown.png)
+![12](https://cdn.discordapp.com/attachments/465020961482342411/717258132761608252/unknown.png)
 
 - Создал контейнер для обращения к фильтрам:  
 ![9](https://cdn.discordapp.com/attachments/465020961482342411/717011972343988325/unknown.png)
