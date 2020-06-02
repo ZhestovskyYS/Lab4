@@ -23,7 +23,7 @@
 ![](https://cdn.discordapp.com/attachments/465020961482342411/717011702771744818/unknown.png)  
 ![10](https://cdn.discordapp.com/attachments/465020961482342411/717011660262342666/unknown.png)
 
-- Здесь же создал функции studetToDisplay и lessonPresent:  
+- Здесь же создал функции studetToDisplay и lessonPresent для сортировки списков:  
 ![7](https://cdn.discordapp.com/attachments/465020961482342411/717011744895270972/unknown.png)  
 ![8](https://cdn.discordapp.com/attachments/465020961482342411/717011779171123272/unknown.png)
 
