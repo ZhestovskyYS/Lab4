@@ -34,7 +34,7 @@
 ![12](https://cdn.discordapp.com/attachments/465020961482342411/717258132761608252/unknown.png)
 
 - Создал контейнер для обращения к фильтрам:  
-![9](https://cdn.discordapp.com/attachments/465020961482342411/717011972343988325/unknown.png)
+![13](https://cdn.discordapp.com/attachments/465020961482342411/717011972343988325/unknown.png)
 
 - Создал компонент showFButtons для отрисовки кнопок:  
 ![14](https://cdn.discordapp.com/attachments/465020961482342411/717258175354765322/unknown.png)
@@ -49,7 +49,40 @@
 ![17](https://cdn.discordapp.com/attachments/465020961482342411/717258494625185792/unknown.png)  
 
 - Создал контейнер для обращения к компоненту построения приложения:  
-![](https://cdn.discordapp.com/attachments/465020961482342411/717280180216791090/unknown.png) 
+![18](https://cdn.discordapp.com/attachments/465020961482342411/717280180216791090/unknown.png) 
 
 - Скоректировал функцию main, для работы с appContainer:  
-![18](https://cdn.discordapp.com/attachments/465020961482342411/717258620286533763/unknown.png)
+![19](https://cdn.discordapp.com/attachments/465020961482342411/717258620286533763/unknown.png)
+
+- Запсук приложения:  
+![20](https://cdn.discordapp.com/attachments/465020961482342411/717337905386881024/unknown.png)
+
+- Кликнул по надписи Lessons:  
+![21](https://cdn.discordapp.com/attachments/465020961482342411/717337959904444486/unknown.png)
+
+- Кликнул по Add:  
+![22](https://cdn.discordapp.com/attachments/465020961482342411/717338028376588298/unknown.png)
+
+- Кдикнул по Edit напротив new lesson и ввел новое название - Mathimatic:  
+![23](https://cdn.discordapp.com/attachments/465020961482342411/717338197050523698/unknown.png)
+
+- После клика по кнопке Save:  
+![24](https://cdn.discordapp.com/attachments/465020961482342411/717338253614776380/unknown.png)
+
+- Кликнул по Delete напротив Lecture:  
+![25](https://cdn.discordapp.com/attachments/465020961482342411/717362835319160922/unknown.png)
+
+- Кликнул по надписи Students:  
+![26](https://cdn.discordapp.com/attachments/465020961482342411/717362886061719613/unknown.png)
+
+- Кликнул по надписи Add:  
+![27](https://cdn.discordapp.com/attachments/465020961482342411/717362929330159676/unknown.png)
+
+- Кликнул по надписи Edit напротив new student и ввел Pitter Parker:  
+![28](https://cdn.discordapp.com/attachments/465020961482342411/717363063476715651/unknown.png)
+
+- Кликнул по кнопке Save:  
+![29](https://cdn.discordapp.com/attachments/465020961482342411/717363247270985738/unknown.png)
+
+- Кликнул по кнопке Delete напротив Howard Wolowitz:  
+![30](https://cdn.discordapp.com/attachments/465020961482342411/717363292896624640/unknown.png)
